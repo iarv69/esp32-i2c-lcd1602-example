@@ -14,7 +14,7 @@ It is written and tested for v3.3 of the [ESP-IDF](https://github.com/espressif/
 
 Ensure that submodules are cloned:
 
-    $ git clone --recursive https://github.com/iarv69/esp32-i2c-lcd1602-example.git
+    $ git clone --recursive https://github.com/iarv69/esp32-i2c-lcd1602-example.git 
     
     $ git submodule update --init -- recursive
 
